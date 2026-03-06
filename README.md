@@ -1,6 +1,5 @@
 # Tugas Machine Learning Sesi 2 - Titanic Dataset
 
-**Deskripsi**
 Repository ini berisi hasil praktik manipulasi dan pembersihan data (Data Preprocessing) menggunakan Python dan dataset Titanic. Langkah-langkah ini dilakukan sebagai persiapan sebelum data dimasukkan ke dalam model Machine Learning.
 
 ## Apa yang Dipelajari?
